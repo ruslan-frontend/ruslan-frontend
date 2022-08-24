@@ -8,6 +8,8 @@
 
 - ⌚️ Hobbies other than coding: 🎧 Music Festivals, 🚗 Cars, 🏂 Snowboarding
 
+<p align="left"> <a href="https://twitter.com/ruslan_frontend" target="blank"><img src="https://img.shields.io/twitter/follow/ruslan_frontend?logo=twitter&style=for-the-badge" alt="ruslan_frontend" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ruslan_frontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruslan_frontend" height="30" width="40" /></a>
