@@ -7,7 +7,7 @@
 - 📫 How to reach me **ruslan.bulatov.96@gmail.com**
 
 - ⌚️ Hobbies other than coding: 🎧 Music Festivals, 🚗 Cars, 🏂 Snowboarding
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ruslan_frontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruslan_frontend" height="30" width="40" /></a>
