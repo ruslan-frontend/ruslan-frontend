@@ -21,4 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslan-frontend&show_icons=true&locale=en&layout=compact" alt="ruslan-frontend" /></p>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslan-frontend&show_icons=true&theme=dark&locale=ru" alt="ruslan-frontend" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslan-frontend&show_icons=true&bg_color=ffffff&hide_border=true&locale=ru" alt="ruslan-frontend" /></p>
