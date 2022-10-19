@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend Developer from Russia</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, REACT**
+- 🌱 I’m currently learning **HTML, JS, CSS, SASS, REACT**
 
 - 📫 How to reach me **ruslan.bulatov.96@gmail.com**
 
