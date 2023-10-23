@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning **HTML, JS, CSS, SASS, REACT, REDUX**
 
-- 📫 How to reach me **ruslan.bulatov.96@gmail.com**
+- 📫 How to reach me via mail **ruslan.bulatov.96@gmail.com**
+- 📫 How to reach me via Telegram **https://t.me/ruslan_frontend**
 
 - ⌚️ Hobbies other than coding: 🎧 Music Festivals, 🚗 Cars, 🏂 Snowboarding
 
